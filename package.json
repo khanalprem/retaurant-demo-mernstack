@@ -1,0 +1,19 @@
+{
+  "name": "retaurant-demo-mernstack",
+  "version": "1.0.0",
+  "description": "Restaurant app using MERN ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanalprem/retaurant-demo-mernstack.git"
+  },
+  "author": "Prem Prasad Khanal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanalprem/retaurant-demo-mernstack/issues"
+  },
+  "homepage": "https://github.com/khanalprem/retaurant-demo-mernstack#readme"
+}
